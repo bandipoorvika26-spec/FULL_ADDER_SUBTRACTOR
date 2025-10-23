@@ -64,12 +64,17 @@ For different input combinations generate the timing diagram.
 */
 
 **RTL Schematic**
+RTL Schematic Full Adder Logic Diagram: 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3604694-1f58-4a08-99b0-aff242f8be46" />
 
+Full Subtractor Logic Diagram: 
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/fa8339f0-eb35-419f-ae57-72e96d68b626" />
 
 **Output Timing Waveform**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/677490f4-97aa-4d67-ad04-0f2146bec1d4" />
 
+Full Subtractor Waveform:
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/21cf0080-fcc1-4649-9259-17a610655f31" />
 
 **Result:**
 
